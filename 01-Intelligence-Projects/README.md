@@ -1,5 +1,7 @@
 # Intelligence & Investigation Projects
 
+The current collection is maintained in the [Intelligence repository](https://github.com/ronisha609/Intelligence), including the travel-intelligence brief. The overview copies below are retained for reference.
+
 These projects show how I connect technical activity, online research, identity, and behavior to assess threats and recommend next steps.
 
 | Project | Description |
