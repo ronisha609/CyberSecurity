@@ -21,9 +21,9 @@ Hands-on cybersecurity training covering **Linux, file integrity, active reconna
 
 ## Separate Collection: Intelligence & Investigation Labs
 
-[Open the separate Intelligence Portfolio repository](https://github.com/ronisha609/Intelligence-Portfolio)
+[Open the separate Intelligence Portfolio repository](https://github.com/ronisha609/Intelligence)
 
-This separate collection covers **foreign recruitment and insider risk, OSINT and protective intelligence, LockBit threat-actor analysis, and a Defender/EDR threat hunt**. Each project includes a description, its analytic focus, skills, and a link to the full report.
+This separate collection covers **foreign recruitment and insider risk, OSINT and protective intelligence, travel intelligence, LockBit threat-actor analysis, and a Defender/EDR threat hunt**. Each project includes a description, its analytic focus, skills, and a link to the full report.
 
 [Full intelligence portfolio in Notion](https://app.notion.com/p/3cd81644420380669bf8e68cab6082bf)
 
@@ -31,9 +31,9 @@ This separate collection covers **foreign recruitment and insider risk, OSINT an
 
 | Project | What it’s about |
 | --- | --- |
-| [Python Keyboard Event Logging Lab](https://github.com/ronisha609/KEYLOGGER) | Tutorial-based Python project with a code walkthrough and a controlled callback test. Demonstrates event handling and logging. |
-| [CodeQL Workflow Setup Lab](https://github.com/ronisha609/CodeQL-Test) | GitHub Actions configuration for static analysis. Demonstrates workflow structure; completed scan results are not yet available. |
-| [Python IT Automation References](https://github.com/ronisha609/google-it-automation-with-python) | Attributed course reference material covering system checks, CSV reporting, and troubleshooting. |
+| [Python Keyboard Event Logging Lab](https://github.com/ronisha609/Automation/tree/main/python-keylogger) | Tutorial-based Python project with a code walkthrough and a controlled callback test. Demonstrates event handling and logging. |
+| [CodeQL Workflow Setup Lab](https://github.com/ronisha609/Automation/tree/main/codeql-github-actions) | GitHub Actions configuration for static analysis. Demonstrates workflow structure; completed scan results are not yet available. |
+| [Python IT Automation References](https://github.com/ronisha609/Automation/tree/main/google-it-automation-python) | Attributed course reference material covering system checks, CSV reporting, and troubleshooting. |
 
 ## About This Work
 
