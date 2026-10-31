@@ -4,15 +4,15 @@ My earlier hands-on cybersecurity training, arranged from foundational exercises
 
 ## Lab Directory
 
-| Lab | Description | Skill focus |
+| Lab | Operational focus | Capability |
 | --- | --- | --- |
-| [Linux Fundamentals](01-Linux-Fundamentals.docx) | Practice with common Linux commands. | Linux and command-line basics |
+| [Linux Fundamentals](01-Linux-Fundamentals.docx) | Execute core Linux commands for navigation, file handling, and system interaction. | Linux and command-line basics |
 | [File Integrity Checks](02-File-Integrity-Checks.docx) | An exercise on checking whether a file has changed. | Integrity verification and forensic foundations |
-| [Metasploitable Lab](03-Metasploitable-Lab.pdf) | Work with an intentionally vulnerable training system. | Vulnerable-system lab practice |
+| [Metasploitable Lab](03-Metasploitable-Lab.pdf) | Analyze and test an intentionally vulnerable training system. | Vulnerable-system lab practice |
 | [Active Reconnaissance](04-Active-Reconnaissance.pdf) | Training focused on active reconnaissance. | Reconnaissance and identifying system exposure |
 | [Metasploitable2 & Tomcat Security](05-Metasploitable2-and-Tomcat-Security.pdf) | Lab setup and a Tomcat administration exploitation exercise. | Web-server security and controlled exploitation |
-| [VulnHub Setup & Web Directories](06-VulnHub-Setup-and-Web-Directories.pdf) | RidiculouslyEasy VM setup and port 80 directory exploration. | VM setup and web enumeration |
-| [VulnHub RidiculouslyEasy Lab](07-VulnHub-RidiculouslyEasy-Lab.pdf) | A follow-up exercise in the RidiculouslyEasy environment. | Vulnerable-machine lab practice |
+| [VulnHub Setup & Web Directories](06-VulnHub-Setup-and-Web-Directories.pdf) | Deploy RidiculouslyEasy and enumerate port 80 directories. | VM setup and web enumeration |
+| [VulnHub RidiculouslyEasy Lab](07-VulnHub-RidiculouslyEasy-Lab.pdf) | Investigate additional weaknesses within the RidiculouslyEasy environment. | Vulnerable-machine lab practice |
 | [OWASP Web Security Lab Setup](08-OWASP-Web-Security-Lab-Setup.pdf) | Installing a vulnerable web application training environment. | Web security environment setup |
 
 ## Additional Lab Notes
