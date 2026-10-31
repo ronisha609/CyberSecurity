@@ -10,14 +10,14 @@ This high-impact lab portfolio executes disciplined cybersecurity operations acr
 | --- | --- | --- |
 | [Linux Fundamentals](02-Cybersecurity-Labs/01-Linux-Fundamentals.docx) | Execute core Linux commands for navigation, file handling, and system interaction. | Linux and command-line basics |
 | [File Integrity Checks](02-Cybersecurity-Labs/02-File-Integrity-Checks.docx) | Generate and compare hashes to verify file integrity. | Integrity verification and forensic foundations |
-| [Metasploitable Lab](02-Cybersecurity-Labs/03-Metasploitable-Lab.pdf) | Analyze and test an intentionally vulnerable training system. | Vulnerable-system lab practice |
+| [Metasploitable Lab](02-Cybersecurity-Labs/03-Metasploitable-Lab.pdf) | Analyze and test an intentionally vulnerable training system. | Controlled vulnerability analysis |
 | [Active Reconnaissance](02-Cybersecurity-Labs/04-Active-Reconnaissance.pdf) | Enumerate exposed systems, ports, and services through active reconnaissance. | Reconnaissance and system exposure |
 | [Metasploitable2 & Tomcat Security](02-Cybersecurity-Labs/05-Metasploitable2-and-Tomcat-Security.pdf) | Configure the lab and analyze controlled Tomcat administration exploitation. | Web-server security and controlled exploitation |
 | [VulnHub Setup & Web Directories](02-Cybersecurity-Labs/06-VulnHub-Setup-and-Web-Directories.pdf) | Deploy RidiculouslyEasy and enumerate port 80 directories. | Virtual-machine setup and web enumeration |
-| [VulnHub RidiculouslyEasy Lab](02-Cybersecurity-Labs/07-VulnHub-RidiculouslyEasy-Lab.pdf) | Investigate additional weaknesses within the RidiculouslyEasy environment. | Vulnerable-machine lab practice |
+| [VulnHub RidiculouslyEasy Lab](02-Cybersecurity-Labs/07-VulnHub-RidiculouslyEasy-Lab.pdf) | Investigate additional weaknesses within the RidiculouslyEasy environment. | Controlled vulnerability assessment |
 | [OWASP Web Security Lab Setup](02-Cybersecurity-Labs/08-OWASP-Web-Security-Lab-Setup.pdf) | Deploy a vulnerable web application environment for controlled testing. | Web application security lab setup |
 
-[Additional lab notes and learning resources](02-Cybersecurity-Labs/README.md#additional-lab-notes)
+[Additional lab notes and reference resources](02-Cybersecurity-Labs/README.md#additional-lab-notes)
 
 ## Separate Collection: Intelligence & Investigation Labs
 
