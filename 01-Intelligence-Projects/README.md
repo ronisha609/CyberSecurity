@@ -11,6 +11,6 @@ These projects show how I connect technical activity, online research, identity,
 | [LockBit Threat Actor Analysis](03-LockBit-Threat-Actor-Analysis.md) | Research into LockBit’s motivations, targets, and attack methods, with organizational risk and defensive recommendations. |
 | [Defender & EDR Threat Hunt](04-Defender-and-EDR-Threat-Hunt.md) | A hunt and detection project for MITRE ATT&CK T1562.001, covering telemetry, false positives, and escalation. |
 
-Each page explains the project, its focus, the skills demonstrated, and where to read the complete report in Notion.
+Each page defines the intelligence objective, documents the analytic approach, identifies demonstrated capabilities, and links to the complete report in Notion.
 
 [Back to portfolio](../README.md) · [Cybersecurity labs](../02-Cybersecurity-Labs/README.md)
