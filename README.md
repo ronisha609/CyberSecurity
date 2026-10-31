@@ -1,6 +1,6 @@
 # Cybersecurity Operations & Security Testing Labs
 
-This lab portfolio executes applied cybersecurity work across **Linux operations, forensic integrity validation, active reconnaissance, vulnerability analysis, controlled exploitation, and web application security**. Each lab defines a technical objective, executes a controlled process, records evidence, and validates the capability applied.
+This high-impact lab portfolio executes disciplined cybersecurity operations across **Linux administration, forensic integrity validation, active reconnaissance, vulnerability analysis, controlled exploitation, and web application security**. Each lab drives a technical objective from controlled execution through evidence capture, validation, and defensible security findings.
 
 [View all cybersecurity labs](02-Cybersecurity-Labs/README.md) · [LinkedIn](https://www.linkedin.com/in/ronisha-showers)
 
