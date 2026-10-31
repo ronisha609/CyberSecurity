@@ -1,6 +1,6 @@
-# Cybersecurity Labs | Ronisha Showers
+# Cybersecurity Operations & Security Testing Labs | Ronisha Showers
 
-Hands-on cybersecurity training covering **Linux, file integrity, active reconnaissance, vulnerable systems, and web application security**. This collection shows the technical foundation behind my work in security analysis and investigations.
+This lab portfolio demonstrates applied cybersecurity methods across **Linux operations, forensic integrity validation, active reconnaissance, vulnerability analysis, controlled exploitation, and web application security**. Each lab documents the technical objective, investigative process, evidence reviewed, and security skill demonstrated.
 
 [Browse all cybersecurity labs](02-Cybersecurity-Labs/README.md) · [LinkedIn](https://www.linkedin.com/in/ronisha-showers)
 
@@ -27,14 +27,14 @@ This separate collection covers **foreign recruitment and insider risk, OSINT an
 
 [Full intelligence portfolio in Notion](https://app.notion.com/p/3cd81644420380669bf8e68cab6082bf)
 
-## More Technical Projects
+## Additional Technical Labs
 
-| Project | What it’s about |
+| Lab | What it demonstrates |
 | --- | --- |
 | [Python Keyboard Event Logging Lab](https://github.com/ronisha609/Automation/tree/main/python-keylogger) | Tutorial-based Python project with a code walkthrough and a controlled callback test. Demonstrates event handling and logging. |
 | [CodeQL Workflow Setup Lab](https://github.com/ronisha609/Automation/tree/main/codeql-github-actions) | GitHub Actions configuration for static analysis. Demonstrates workflow structure; completed scan results are not yet available. |
 | [Python IT Automation References](https://github.com/ronisha609/Automation/tree/main/google-it-automation-python) | Attributed course reference material covering system checks, CSV reporting, and troubleshooting. |
 
-## About This Work
+## Lab Standards
 
-The cybersecurity documents are earlier training exercises. Lab descriptions reflect the original document titles; open the documents for procedures and results. Intelligence assessments are independent portfolio projects, with fictional scenarios identified on their project pages.
+These controlled labs document practical training performed in authorized environments. Each artifact is presented as evidence of technical growth, security reasoning, and clear reporting. Intelligence assessments remain separate, independent labs, and fictional scenarios are identified on their individual pages.
